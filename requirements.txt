@@ -5,3 +5,4 @@ sqlite3
 seaborn
 matplotlib.pyplot
 matplotlib
+streamlit_option_menu
