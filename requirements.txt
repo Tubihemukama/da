@@ -4,5 +4,4 @@ openpyxl
 sqlite3
 seaborn
 matplotlib
-matplotlib
 streamlit_option_menu
