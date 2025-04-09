@@ -1,3 +1,7 @@
 pandas
 streamlit
 openpyxl
+sqlite3
+seaborn
+matplotlib.pyplot
+matplotlib
