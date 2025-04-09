@@ -3,6 +3,6 @@ streamlit
 openpyxl
 sqlite3
 seaborn
-matplotlib.pyplot
+matplotlib
 matplotlib
 streamlit_option_menu
